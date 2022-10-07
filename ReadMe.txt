@@ -1,2 +1,2 @@
-my first git change i did some change
+my first git change i try to make change
 
